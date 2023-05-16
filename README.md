@@ -1,1 +1,2 @@
-# TPI-Lab2-ApiWeather
+# tup-lc2-clima-app
+Trabajo práctico integrador - Laboratorio de computación II
